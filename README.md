@@ -1,3 +1,5 @@
-[https://stevenjosiahblair.w3spaces.com/] # pimp-daddy-link-tree
+[P.D.L.T]-pimp-daddy-link-tree 
 
-[P.D.L.T] a simple link tree with a static bg.
+A simple link tree with a static bg.
+
+[(https://steven-j-blair.github.io/pimp-daddy-link-tree/)] 
